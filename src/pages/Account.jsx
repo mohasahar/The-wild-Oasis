@@ -1,4 +1,4 @@
-import UpdatePasswordForm from "../features/authentication/UpdatePassWordForm";
+import UpdatePasswordForm from "../features/authentication/UpdatePasswordForm";
 import UpdateUserDataForm from "../features/authentication/UpdateUserDataForm";
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
